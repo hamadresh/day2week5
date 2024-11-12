@@ -1,0 +1,11 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/digital_system/Digital_System_Design/lab2/task4/task4.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/digital_system/Digital_System_Design/lab2/task4/task4.srcs/sim_1/new/fulladder4bittestbench.sv,1731413064,systemVerilog,,,,fulladder4bittestbench,,,,,,,,
+/home/it/digital_system/Digital_System_Design/lab2/task4/task4.srcs/sources_1/new/XORgate.sv,1731327738,systemVerilog,,/home/it/digital_system/Digital_System_Design/lab2/task4/task4.srcs/sources_1/new/and4gate.sv,,XORgate,,,,,,,,
+/home/it/digital_system/Digital_System_Design/lab2/task4/task4.srcs/sources_1/new/and4gate.sv,1731322861,systemVerilog,,/home/it/digital_system/Digital_System_Design/lab2/task4/task4.srcs/sources_1/new/fulladder.sv,,and4gate,,,,,,,,
+/home/it/digital_system/Digital_System_Design/lab2/task4/task4.srcs/sources_1/new/fulladder.sv,1731330108,systemVerilog,,/home/it/digital_system/Digital_System_Design/lab2/task4/task4.srcs/sources_1/new/fulladder4bit.sv,,fulladder,,,,,,,,
+/home/it/digital_system/Digital_System_Design/lab2/task4/task4.srcs/sources_1/new/fulladder4bit.sv,1731410766,systemVerilog,,/home/it/digital_system/Digital_System_Design/lab2/task4/task4.srcs/sources_1/new/halfadder.sv,,fulladder4bit,,,,,,,,
+/home/it/digital_system/Digital_System_Design/lab2/task4/task4.srcs/sources_1/new/halfadder.sv,1731327740,systemVerilog,,/home/it/digital_system/Digital_System_Design/lab2/task4/task4.srcs/sim_1/new/fulladder4bittestbench.sv,,halfadder,,,,,,,,

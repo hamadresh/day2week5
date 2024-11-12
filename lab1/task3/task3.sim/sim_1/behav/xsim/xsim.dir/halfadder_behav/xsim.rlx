@@ -1,0 +1,12 @@
+
+{ 
+    crc :  16427259841894950948  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 8506f7ca7b734b7f91e3e2e6244b01d9 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot halfadder_behav xil_defaultlib.halfadder xil_defaultlib.glbl" , 
+    buildDate : "May 24 2019" , 
+    buildTime : "14:51:52" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--no-as-needed  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/halfadder_behav/xsimk\"   \"xsim.dir/halfadder_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/halfadder_behav/obj/xsim_1.lnx64.o\" -L\"/home/it/Desktop/Vivado/Vivado/Xilinx/Vivado/Vivado/2019.1/lib/lnx64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

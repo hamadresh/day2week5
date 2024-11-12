@@ -1,0 +1,15 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /home/it/Desktop/Vivado/Vivado/Xilinx/Vivado/Vivado/2019.1/bin/unwrapped/lnx64.o/xelab -wto e9cc7ce52a834d6ead849424612fb6a7 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot halfaddertestbench_behav xil_defaultlib.halfaddertestbench xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.and4gate
+Compiling module xil_defaultlib.XORgate
+Compiling module xil_defaultlib.halfadder
+Compiling module xil_defaultlib.halfaddertestbench
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot halfaddertestbench_behav

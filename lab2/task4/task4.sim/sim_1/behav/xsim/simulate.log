@@ -1,0 +1,13 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Time	 a	 b	 Ci	 S	 Co
+-------------------
+0	 0000	 0000	 0	 0000	 0
+10000	 1000	 1000	 1	 0001	 1
+20000	 1100	 1100	 0	 1000	 1
+30000	 1110	 1110	 1	 1101	 1
+40000	 1100	 0011	 0	 1111	 0
+50000	 0110	 1001	 1	 0000	 1
+60000	 1100	 0011	 0	 1111	 0
+70000	 1111	 1111	 1	 1111	 1
+$finish called at time : 80 ns : File "/home/it/digital_system/Digital_System_Design/lab2/task4/task4.srcs/sim_1/new/fulladder4bittestbench.sv" Line 67

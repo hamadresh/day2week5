@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Nov 12 13:27:16 2024
+# Process ID: 22793
+# Current directory: /home/it/digital_system/Digital_System_Design/lab2/task2/task2.runs/impl_1
+# Command line: vivado -log halfadder.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source halfadder.tcl -notrace
+# Log file: /home/it/digital_system/Digital_System_Design/lab2/task2/task2.runs/impl_1/halfadder.vdi
+# Journal file: /home/it/digital_system/Digital_System_Design/lab2/task2/task2.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source halfadder.tcl -notrace

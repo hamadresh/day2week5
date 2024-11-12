@@ -1,0 +1,8 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/digital_system/Digital_System_Design/lab1/task1/task1.sim/sim_1/behav/xsim/glbl.v,1731328267,verilog,,,,glbl,,,,,,,,
+/home/it/digital_system/Digital_System_Design/lab1/task1/task1.srcs/sim_1/new/and4gatetestbench.sv,1731328267,systemVerilog,,,,and4gatetestbench,,,,,,,,
+/home/it/digital_system/Digital_System_Design/lab1/task1/task1.srcs/sources_1/new/and4gate.sv,1731328267,systemVerilog,,/home/it/digital_system/Digital_System_Design/lab1/task1/task1.srcs/sources_1/new/and4input.sv,,and4gate,,,,,,,,
+/home/it/digital_system/Digital_System_Design/lab1/task1/task1.srcs/sources_1/new/and4input.sv,1731328267,systemVerilog,,/home/it/digital_system/Digital_System_Design/lab1/task1/task1.srcs/sim_1/new/and4gatetestbench.sv,,and4input,,,,,,,,

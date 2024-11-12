@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../task2.srcs/sources_1/new/XORgate.sv" \
+"../../../../task2.srcs/sources_1/new/and4gate.sv" \
+"../../../../task2.srcs/sources_1/new/halfadder.sv" \
+"../../../../task2.srcs/sim_1/new/halfaddertestbench.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
